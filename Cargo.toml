@@ -1,7 +1,6 @@
 [package]
 name = "rust-effects"
 version = "0.1.0"
-authors = ["quintessa <archon@tuta.io>"]
 license = "MIT"
 edition = "2021"
 
